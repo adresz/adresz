@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A university student from Hungary.</h3>
 
-- 🔭 I’m currently working on **An own story game, and a few mobile app projects**
+- 🔭 I’m currently working on **a story game, and a few mobile app projects**
 
 - 🌱 I’m currently learning **Mobile app development and game development**
 
